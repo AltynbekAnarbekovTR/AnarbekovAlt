@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**AnarbekovAlt/AnarbekovAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Altyn</h1>
 <h3 align="center">A passionate frontend developer always seeking for interesting tasks and challenges</h3>
 
